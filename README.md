@@ -15,5 +15,5 @@ I'm looking for opportunities to collaborate with researchers, developers, and i
 💬 Ask me about...
 Feel free to ask me about my research on AMRs in production systems, or about my experience with simulation tools like Simpy or three.js. I'm also happy to discuss potential collaborations or provide guidance on implementing AMRs in production environments.
 
-📫 How to reach me...
+📫 How to reach me..
 You can reach me through my GitHub profile or by sending an email to ole.pruefer@leuphana.de
