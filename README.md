@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Zaponex/Zaponex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 I'm currently working on...
 As a Research Associate and PhD student at the Institute for Production Systems at Leuphana University, I'm focused on exploring the potential of Autonomous Mobile Robots (AMRs) in high-flexible production systems. My research aims to investigate how AMRs can be integrated into heterogeneous production systems, and which types of AMRs would be most suitable for these applications.
 
